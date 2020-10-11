@@ -6,7 +6,7 @@
 ### Welcome to Fitness-Frog!
 <hr>
 
-This project is an `ASP.NET Framework` MVC web application. 
+This project is an `ASP.NET Framework` MVC cross-platform web application that provides CRUD (*Create, Read, Update, Delete*) functions for maintaining a personal fitness log. Logo assets and styles were provided by *TreeHouse* and *BootStrap* (see *Technologies* and *Acknowledgements*). 
 
 <br />
 
