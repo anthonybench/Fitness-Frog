@@ -13,7 +13,7 @@ This project is an `ASP.NET Framework` MVC cross-platform web application that p
 ### Table of Contents 📖
 <hr>
 
-  - [Welcome](#welcome-to-~ooo~)
+  - [Welcome](#welcome-to-Fitness-Frog)
   - [**Get Started**](#get-started-)
   - [Usage](#usage-)
   - [Technologies](#technologies-)
