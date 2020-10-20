@@ -13,7 +13,7 @@ This project is an `ASP.NET Framework` MVC cross-platform web application that p
 ### Table of Contents 📖
 <hr>
 
-  - [Welcome](#welcome-to-Fitness-Frog)
+  - [Welcome](#welcome-to-fitness-frog)
   - [**Get Started**](#get-started-)
   - [Usage](#usage-)
   - [Technologies](#technologies-)
@@ -75,6 +75,9 @@ Thanks to *TreeHouse* for helping me through this application build, it really h
 
 ### License, Stats, Author 📜
 <hr>
+
+<img align="right" alt="example image tag" src="https://i.imgur.com/jtNwEWu.png" width="200" />
+
 <!-- badge cluster -->
 
 ![GitHub](https://img.shields.io/github/license/anthonybench/Fitness-Frog) ![GitHub language count](https://img.shields.io/github/languages/count/anthonybench/Fitness-Frog) ![GitHub top language](https://img.shields.io/github/languages/top/anthonybench/Fitness-Frog)
@@ -85,5 +88,3 @@ See [License](https://opensource.org/licenses/MIT) for the full license text.
 This repository was authored by *Isaac Yep*.
 
 [Back to Table of Contents](#table-of-contents-)
-
-![Imgur](https://i.imgur.com/jtNwEWu.png)
